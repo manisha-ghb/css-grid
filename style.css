@@ -195,7 +195,7 @@ body{
     background-image: linear-gradient(to right, blueviolet,lavender);
 } 
 @media screen and (min-width : 601px) and (max-width : 900px){
-    .grid-container{
+    .grid-container3{
         grid-template-columns: repeat(2, 1fr);
     }
 }
